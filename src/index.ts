@@ -67,5 +67,5 @@ const crawl = async ({ url }: { url: string }) => {
 };
 
 crawl({
-  url: "https://www.instagram.com/im.martin.andersen/", // Add Site URL here
+  url: "https://www.instagram.com/im.martin.andersen/*", // Add Site URL here
 });
